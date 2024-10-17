@@ -227,3 +227,6 @@ AppPackages/
 
 # Config file
 appsettings.json
+
+# pycache
+__pycache__
