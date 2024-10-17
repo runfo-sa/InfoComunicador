@@ -1,0 +1,4 @@
+﻿{
+	"api_servidor": "192.168.20.17",
+	"api_ruta": "/InfoComunicador/"
+}
